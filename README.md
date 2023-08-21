@@ -8,3 +8,5 @@ App where users can change the color of the background and the foreground to any
 
 3) Palette: User selects a color instead of entering it. This is done by the magic of a color palette.
 
+In addition to this, all the JavaScript code is documented well with comments and follows good code structure.
+
