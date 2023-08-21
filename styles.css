@@ -70,6 +70,10 @@ body {
     background-color: bisque;
 }
 
+.inner-container > input::placeholder {
+    color: black;
+}
+
 .inner-container > button {
     width: 120px;
     font-size: medium;
