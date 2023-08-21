@@ -2,7 +2,7 @@
 
 Hosted on Netlify: https://diy-color-switcher.netlify.app/
 
-NOTE: The above netlify link has cache issues so the background color is not changing, but the foreground is. Just clone the repo and run on your localhost and browser to see the complete solution (both background and foreground colors changing). 
+NOTE: The above netlify link has cache issues that I will try to fix later so the background color is not changing, but the foreground is. Just clone the repo and run on your localhost and browser to see the complete solution (both background and foreground colors changing). 
 
 Visually appealing app where users can change the color of the background and the foreground to any color of their choosing (this app is like a DIY design app). The 3 options given to the user are:
 
