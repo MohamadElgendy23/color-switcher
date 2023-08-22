@@ -2,7 +2,7 @@
 
 Hosted on Netlify: https://diy-color-switcher.netlify.app/
 
-Description: Visually appealing app where users can change the color of the background and the foreground to any color of their choosing (this app is like a DIY design app). The 3 options given to the user are:
+Description: Visually appealing app implemented in JavaScript, HTML, and CSS where users can change the color of the background and the foreground to any color of their choosing (this app is like a DIY design app). The 3 options given to the user are:
 
 1) Name: User enters a color by its name (orange, blue, etc) and the colors get changed to that.
    
