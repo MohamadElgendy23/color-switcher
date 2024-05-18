@@ -70,7 +70,7 @@ addEventListener("change", (event) => {
       currBackgroundColor = event.target.value;
     } else {
       alert(
-        "Invalid Background Color! Enter Valid Background Color Or Switch To Hex Option"
+        "Invalid Background Color! Enter Valid Background Color Or Switch Tothe Hex Option"
       );
     }
   }
@@ -79,7 +79,7 @@ addEventListener("change", (event) => {
       currForegroundColor = event.target.value;
     } else {
       alert(
-        "Invalid Foreground Color! Enter Valid Foreground Color Or Switch To Hex Option"
+        "Invalid Foreground Color! Enter Valid Foreground Color Or Switch To the Hex Option"
       );
     }
   }
